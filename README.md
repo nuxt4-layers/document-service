@@ -1,1 +1,1 @@
-# document-service
+# @nuxt4-layers/document-service
